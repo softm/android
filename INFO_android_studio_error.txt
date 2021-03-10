@@ -1,0 +1,30 @@
+# Write access is allowed from event dispatch thread only --> (File -> Project Structure -> SDK Location)
+    So the problem was concluded in that android studio conflicted with my installed jdk version, 
+    so it was resolved when i checked jdk location (File -> Project Structure -> SDK Location), 
+    ticked 'Use embedded JDK' checkbox and set jdk location to 'path to android studio'\Android Studio\jre
+
+
+Error:Execution failed for task ':hancapital:transformClassesWithInstantRunForDebug'.
+> com.android.build.api.transform.TransformException: java.lang.IllegalStateException: java.lang.IllegalStateException: Unexpected constructor structure.
+
+# Android Studio: “Please select Android SDK”
+    Tools -> Android -> Sync Project with Gradle Files  (Android Studio 3.0.1)
+
+# Change dpi for AVD
+    1. open config.ini ( \Users\.android\avd\[Avd Name] )
+    2. change dpi :> hw.lcd.density=160
+
+    ※ 참고
+      변경을해도 config.ini 파일을 계속 복구할경우
+      애뮬레이터에서 최초 생성할때 Phone,TV, Tablet으로 먼저 설정을 해서 생성후 변경해볼것.
+
+
+# Android Studio- where the library classes are stored
+    down vote
+    accepted
+    The android default libraries like appcompact, design support libraries are stored in your folder where you have installed the SDK, precisely <SDK FOLDER>/extras/android/m2repository/com/android .
+    The 3rd party libraries are stored in .gradle/caches/modules-2/files-2.1 folder.
+    The gradle folder is hidden. In linux you can find it in your home directory by pressing ctrl+h which helps to view hidden files and folder.
+    In windows it is present at C:\Users\UserName\.gradle
+    e.g if you are using butterknife library then in above path there will be a folder get created as com.getkeepsafe.relinker, inside that folder you will find its related folders and files, .aar or .jar files.
+

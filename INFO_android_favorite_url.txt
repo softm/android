@@ -1,0 +1,152 @@
+﻿# CoordinatorLayout 활용 (Scrolling Techniques) - CoodinatorLayout Behavior
+    https://github.com/saulmm/CoordinatorBehaviorExample
+    http://www.kmshack.kr/2017/01/coordinatorlayout%EA%B3%BC-behavior%EC%9D%98-%EA%B4%80%EA%B3%84/
+    http://www.kmshack.kr/2017/01/coordinatorlayout%EA%B3%BC-behavior%EC%9D%98-%EA%B4%80%EA%B3%84/
+    http://freehoon.tistory.com/38
+    http://readme.skplanet.com/?p=11463
+
+
+# 공유
+    카카오톡 : https://developers.kakao.com/docs/android
+    페이스북 : http://citynetc.tistory.com/156
+               https://developers.facebook.com/docs/sharing/android/?locale=ko_KR
+    트위터   : http://citynetc.tistory.com/157
+# 태그 (문자열) 줄바꿈                          : https://android-arsenal.com/details/1/5246
+
+# 반투명 다이얼로그                             : http://arabiannight.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9CAndroid-%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0Activity-%EB%B0%98%ED%88%AC%EB%AA%85-%EC%B2%98%EB%A6%AC-%ED%95%98%EA%B8%B0
+# pull to refresh                               : https://medium.com/@bluesh55/android-%EB%8B%B9%EA%B2%A8%EC%84%9C-%EC%83%88%EB%A1%9C%EA%B3%A0%EC%B9%A8-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-a42846c14c23
+# 안드로이드 RecyclerView 스크롤 감지           : http://davinci505.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-RecyclerView-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EA%B0%90%EC%A7%80
+# FloatingActionButton                          : http://mommoo.tistory.com/39
+# Progress bar Circle 이미지 바꾸기             : http://thebestofbestofbest.blogspot.kr/2011/11/androidprogress-bar-circle.html?m=1
+# 커스텀 원형 로딩 progressBar 만들기           : http://perpetual.tistory.com/m/19
+# 이미지 라운딩 처리방법 효율적인 Bitmap        : http://www.kmshack.kr/2013/07/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-bitmap-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%9D%BC%EC%9A%B4%EB%94%A9-%EC%B2%98%EB%A6%AC%EB%B0%A9%EB%B2%95/amp/
+# ImageView 컬러 변경 (Dim 처리)                : http://heum-story.tistory.com/m/18
+# ImageView 초간단 Rounding 방법                : http://chocorolls.tistory.com/47
+
+# 그래프
+    Android: 안드로이드 그래프 라이브러리 - HzGrapher - 소스 - 안드로이드 개발 정보 - http://www.androidpub.com/2615071
+
+# GitHub - misakuo/3dTagCloudAndroid: Tagcloud component for android - https://github.com/misakuo/3dTagCloudAndroid
+# 3D Tag Cloud for Android - Tagin_Demo - https://sites.google.com/site/tagindemo/TagCloud
+# 볼더 그라데이션
+    # shape border with gradient                    : https://stackoverflow.com/questions/20870853/android-shape-border-with-gradient
+    # 서클 이미지 볼더 그라데이션                   : http://escomic.net/m/217
+
+# TextView
+    # 한 라인에 몇 글자가 들어갔는지 확인하는 방법              : https://medium.com/@tonyjs/textview-%ED%95%9C-%EB%9D%BC%EC%9D%B8%EC%97%90-%EB%AA%87-%EA%B8%80%EC%9E%90%EA%B0%80-%EB%93%A4%EC%96%B4%EA%B0%94%EB%8A%94%EC%A7%80-%ED%99%95%EC%9D%B8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-3bafe9abda99
+    # TextView의 maxLines,singleLine, ellipsize 속성 사용하기   : http://uknowapps.egloos.com/m/1565493
+    # TextView 한줄로 표시 ( maxLines, singleLine, ellipsize )  : http://codeman77.tistory.com/m/54
+
+# 롤링
+    Textview with vertical scrolling text [duplicate]                                   : https://stackoverflow.com/questions/14434433/androidtextview-with-vertical-scrolling-text
+    How to animate the textview (very very long text )scroll automatically horizontally : https://stackoverflow.com/questions/18826870/how-to-animate-the-textview-very-very-long-text-scroll-automatically-horizonta
+    TextView scroll bar automatic rolling bottom                                        : http://www.programering.com/a/MDM5QjNwATI.html
+
+# 색상추출
+    GalleryLayoutManager    : https://github.com/BCsl/GalleryLayoutManager
+    색상추출이란?           : http://www.kurabo.co.jp/el/world/kr/room/abstract/page1.html
+    이미지 대표 색상 추출   : http://dumpsys.blogspot.kr/2015/09/android.html?m=1
+
+# 커스텀 폰트 Calligraphy vs. Typekit : http://imcreator.tistory.com/112
+    File > Settings > Version Control
+    로 가거나 알림 메시지를 눌러 Settings로 바로 간다.
+
+    상단에 보면 디렉토리 경로를 설정하는 부분이 있는데 오른쪽에 Git으로 되있는 걸 <None>으로 바꿔준다.
+
+# Glide
+    http://dktfrmaster.blogspot.kr/2016/09/glide.html
+
+# 안드로이드 정보 많음.
+    http://escomic.net/m/category/%EC%A7%80%EC%8B%9D%EC%8C%93%EA%B8%B0?page=4
+
+# 라운드버튼 ( RoundRectangle )
+    https://android--code.blogspot.kr/2015/01/android-rounded-corners-button.html?m=1
+    http://www.gadgetsaint.com/tips/rounded-corners-views-layouts-android/#.WfaF9lu0OUk
+
+# Time picker
+    Linear Time Picker : https://android-arsenal.com/details/1/6245
+    Horizontal Calendar : https://android-arsenal.com/details/1/5087
+
+# 머터리얼 셋팅 ( merterial setting )
+    Settings                                                : https://material.io/guidelines/patterns/settings.html
+    Building custom preferences with preference-v7          : http://www.hidroh.com/2015/11/30/building-custom-preferences-v7/
+    Switch (On/Off) Tutorial With Example In Android Studio : http://abhiandroid.com/ui/switch
+    android.support.v7.widget.SwitchCompat                  : https://materialdoc.com/components/selection-controls/#switch
+
+# Fragment.setRetainInstance ( boolean ) : http://aroundck.tistory.com/2163
+    fragment instance 가 configuration change 등의 요인으로 인해
+    recreation 된다고 해도 생명주기를 따르지 않아, destory 되지 않도록 하는 것.
+    Fragment 생명주기의 onDestory() 는 불리지 않고,
+                        onDetach() 는 불린다.
+    마찬가지로 activity 에
+                        다시 붙을 때 onCreate() 는 불리지 않도
+                                     onAttach() 와 onActivityCreated 는 불린다.
+
+# Viewpager
+    ViewPager 완전정복(일단 만들기) : http://itpangpang.xyz/m/284
+    ViewPager를 사용해 보자         : http://www.hardcopyworld.com/ngine/android/index.php/archives/164
+    안드로이드 뷰페이저(ViewPager)  : http://hyunssssss.tistory.com/m/297
+
+# CoverFlow
+    Android-CoverFlow  : https://android-arsenal.com/details/1/3530
+
+# ImagePicker
+    https://android-arsenal.com/details/1/4072
+
+# TabLayout 사용하기 : http://i5on9i.blogspot.kr/2015/11/tablayout.html
+
+# CoordinatorLayout 활용 (Scrolling Techniques) - CoodinatorLayout Behavior
+    https://github.com/saulmm/CoordinatorBehaviorExample
+    http://www.kmshack.kr/2017/01/coordinatorlayout%EA%B3%BC-behavior%EC%9D%98-%EA%B4%80%EA%B3%84/
+    http://www.kmshack.kr/2017/01/coordinatorlayout%EA%B3%BC-behavior%EC%9D%98-%EA%B4%80%EA%B3%84/
+    http://freehoon.tistory.com/38
+    CoordinatorLayout 을 위한 Custom Behavior 구현 : http://readme.skplanet.com/?p=11463
+    Add views below toolbar in CoordinatorLayout ::> https://stackoverflow.com/questions/32956071/add-views-below-toolbar-in-coordinatorlayout
+    ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★ ( 중요 꼭분석해볼것::> ) Android-ParallaxHeaderViewPager 코드공개        : http://www.kmshack.kr/tag/pagerslidingtabstrip/
+
+# Navigation Drawer                             : 
+        Custom Drawer                                   : http://kwangsics.tistory.com/entry/Android-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%84%A4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98-%EB%93%9C%EB%A1%9C%EC%96%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0Custom-Navigation-Drawer
+        Navigation Drawer Activity 알아보기             : http://freehoon.tistory.com/29
+        액티비티 전체를 덮는 네비게이션 드로어 만들기   : http://androidhuman.com/560
+
+# Window Manager  ( 항상 최상위에 나오는 뷰 만들기2 – 터치이벤트, 투명도, 이동 )
+    http://www.hardcopyworld.com/ngine/android/index.php/archives/162
+
+
+# How to Display an Animated GIF File : http://gwpark.tistory.com/m/1996
+
+# 비정상종료 처리 finishAffinity
+    https://www.google.co.kr/search?q=finishaffinity&oq=finishAffi&aqs=chrome.1.69i57j0l5.7383j0j4&sourceid=chrome&ie=UTF-8
+
+#필독 
+    스튜디오 단축키 : https://developer.android.com/studio/intro/keyboard-shortcuts.html?hl=ko
+
+    안드로이드 개발자 사이트 번역 (개인이정리한듯) 정리잘되어있음 : http://android-kr.tistory.com/338
+
+    머터리얼        : https://material.io/guidelines/motion/duration-easing.html#duration-easing-common-durations
+    빌드            : https://developer.android.com/studio/build/index.html
+    사용자가이드    : https://developer.android.com/studio/run/managing-avds.html?utm_source=android-studio
+
+    프레그먼트 : https://developer.android.com/training/basics/fragments/communicating.html
+                      https://developer.android.com/guide/components/fragments.html#Design
+
+    Fragment 활용하기 : http://ismydream.tistory.com/123
+                                 https://brunch.co.kr/@henen/20
+
+
+    샘플소스 :  https://github.com/kunny/blog_samples/tree/master/Android/2013-07-21_Navigation_Drawer_Example
+                    http://gun0912.tistory.com/74
+
+    # Gradle 
+        http://abh0518.net/tok/?p=491
+
+    # Android - 라이브러리
+       Navigation Drawer     : http://androidhuman.com/524
+       PagerSlidingTabStrip : http://blog.daum.net/vissar76/14
+                                       https://github.com/astuetz/PagerSlidingTabStrip
+
+# retrofit2 : https://academy.realm.io/kr/posts/retrofit2-for-http-requests/
+
+
+# awesome-android-ui - A curated list of awesome Android UI/UX libraries : https://github.com/wasabeef/awesome-android-ui
+# Android UI OpenSource                                                  : https://kmshack.github.io/AndroidUICollection/
